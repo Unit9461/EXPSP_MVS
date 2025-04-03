@@ -9,5 +9,7 @@
 		"patch":0
 	},
 	"starsectorVersion":"0.98a-RC7",
-	"directDownloadURL":"https://github.com/user-attachments/files/19595144/EXPSP.0.70.zip"
+	"directDownloadURL":"https://github.com/user-attachments/files/19595144/EXPSP.0.70.zip",
+	"changelogURL":"https://raw.githubusercontent.com/Unit9461/EXPSP_MVS/refs/heads/main/changelog.txt"
+	
 }
