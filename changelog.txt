@@ -1,0 +1,6 @@
+
+0.70
+-Updated for 0.98a
+-Resprited Lazarus-Class Heavy Cruiser and Principality Class Aerospace Superiority Cruiser
+-Resprited weapon mounts
+-Reduced Poke missile HP from 250 to 150
